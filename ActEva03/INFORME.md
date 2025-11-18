@@ -5,7 +5,7 @@
 - **Proyecto**: Sistema de Registro de Alumnos de una Academia
 - **Asignatura**: Python
 - **Curso**: 2º DAM
-- **Autor**: Entornito
+- **Autor**: Esteban Garcés Pérez
 - **Fecha**: Noviembre 2025
 - **Evaluación**: 1º Evaluación
 

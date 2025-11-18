@@ -2,7 +2,7 @@
 Sistema de Registro de Alumnos - Academia
 Proyecto 1º Evaluación - Python
 
-Autor: Entornito
+Autor: Esteban Garcés Pérez
 Fecha: Noviembre 2025
 Descripción: Sistema básico para gestionar el registro de alumnos en una academia,
             permitiendo añadir, buscar, mostrar y eliminar registros.

@@ -212,5 +212,5 @@ python registro_alumnos_con_datos.py
 
 ¡Mucha suerte con tu proyecto! 🎉
 
-**Entornito**  
+**Esteban Garcés Pérez**  
 2º DAM - Python

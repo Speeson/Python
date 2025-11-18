@@ -138,6 +138,6 @@ Estos principios son aplicables a cualquier lenguaje de programación y serán f
 
 ---
 
-**Entornito**  
+**Esteban Garcés Pérez**  
 2º DAM - Proyecto Python  
 Noviembre 2025

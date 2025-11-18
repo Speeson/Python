@@ -165,13 +165,22 @@ Usuario selecciona opción 6
 
 ### Ejecución
 ```bash
+# Opción 1: Programa sin datos (empiezas desde cero)
 python registro_alumnos.py
+
+# Opción 2: Programa con 4 alumnos de prueba
+python registro_alumnos_con_datos.py
+
+# Opción 3: Programa con 20 alumnos de prueba (RECOMENDADO para demostraciones)
+python registro_alumnos_20.py
 ```
 
 o en algunos sistemas:
 
 ```bash
 python3 registro_alumnos.py
+python3 registro_alumnos_con_datos.py
+python3 registro_alumnos_20.py
 ```
 
 ### Navegación
@@ -183,14 +192,38 @@ python3 registro_alumnos.py
 
 ## 📝 Ejemplos de Datos de Prueba
 
-Para probar el sistema, puedes usar estos datos de ejemplo:
+### Versiones Disponibles del Programa
+
+El proyecto incluye **tres versiones** del programa:
+
+1. **`registro_alumnos.py`** - Versión limpia sin datos (lista vacía)
+2. **`registro_alumnos_con_datos.py`** - Versión con 4 alumnos pre-cargados
+3. **`registro_alumnos_20.py`** - Versión con 20 alumnos pre-cargados ⭐ **RECOMENDADA para demostraciones**
+
+### 📊 Lista de 20 Alumnos Disponible
+
+Para facilitar las pruebas y capturas, está disponible el archivo `datos_alumnos_20.py` que contiene una lista completa con 20 alumnos realistas. Esta lista incluye:
+
+- **20 alumnos** con datos completos
+- **4 cursos diferentes**: DAM 1º, DAM 2º, DAW 2º, Python Avanzado
+- **Edades variadas**: de 19 a 26 años
+- **DNIs únicos y válidos** en formato español
+- **Emails y teléfonos** realistas
+
+**Distribución por curso:**
+- DAM 1º: 4 alumnos
+- DAM 2º: 5 alumnos
+- DAW 2º: 5 alumnos
+- Python Avanzado: 6 alumnos
+
+**Datos de ejemplo (primeros 3 alumnos):**
 
 **Alumno 1:**
 - DNI: 12345678A
 - Nombre: María González Pérez
 - Edad: 22
 - Curso: DAM 2º
-- Email: maria@example.com
+- Email: maria.gonzalez@example.com
 - Teléfono: 600111222
 
 **Alumno 2:**
@@ -198,7 +231,7 @@ Para probar el sistema, puedes usar estos datos de ejemplo:
 - Nombre: Carlos Rodríguez Sánchez
 - Edad: 20
 - Curso: Python Avanzado
-- Email: carlos@example.com
+- Email: carlos.rodriguez@example.com
 - Teléfono: 600333444
 
 **Alumno 3:**
@@ -206,8 +239,10 @@ Para probar el sistema, puedes usar estos datos de ejemplo:
 - Nombre: Ana Martínez López
 - Edad: 24
 - Curso: DAM 2º
-- Email: ana@example.com
+- Email: ana.martinez@example.com
 - Teléfono: 600555666
+
+💡 **Consejo**: Para capturas de pantalla y demostraciones, usa `registro_alumnos_20.py` que ya tiene todos los datos cargados
 
 ## 🔍 Estándares de Código
 
@@ -269,7 +304,7 @@ El código sigue las convenciones de estilo PEP8:
 
 ## 👨‍💻 Autor
 
-**Entornito**  
+**Esteban Garcés Pérez**  
 Alumno de 2º DAM  
 Proyecto 1º Evaluación - Python  
 Noviembre 2025
