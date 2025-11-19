@@ -3,7 +3,7 @@
 **Proyecto 1º Evaluación - Python**  
 **Asignatura:** Python  
 **Curso:** 2º DAM  
-**Autor:** Esteban Garces / Christian Ballesteros / Alejandro Garcia    
+**Autor:** Esteban Garcés / Christian Ballesteros / Alejandro García    
 **Fecha:** Noviembre 2025
 
 🔗 **Repositorio GitHub:** [https://github.com/Speeson/Python/tree/master/ActEva03](https://github.com/Speeson/Python/tree/master/ActEva03)
@@ -946,7 +946,7 @@ Este proyecto ha sido desarrollado con fines educativos para la asignatura de Py
 - **Asignatura:** Python
 - **Curso:** 2º Desarrollo de Aplicaciones Multiplataforma (DAM)
 - **Evaluación:** 1º Evaluación
-- **Autor:** Esteban Garces / Christian Ballesteros / Alejandro Garcia
+- **Autor:** Esteban Garcés / Christian Ballesteros / Alejandro García
 - **Fecha de entrega:** Noviembre 2025
 - **Versión del código:** 1.0
 - **Repositorio GitHub:** [https://github.com/Speeson/Python/tree/master/ActEva03](https://github.com/Speeson/Python/tree/master/ActEva03)
